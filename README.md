@@ -1,10 +1,6 @@
 ```markdown
 # Jogo do Número Secreto
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 Aplicação web interativa criada para aprender na prática os conceitos fundamentais de programação e desenvolvimento web.
 
 ---
@@ -22,9 +18,12 @@ Aprender na prática conceitos básicos de webdesign e desenvolvimento front-end
 ---
 
 ### Ferramentas
-- Visual Studio Code (VS Code)
+- **JavaScript:** Lógica do jogo, controle de tentativas e manipulação do DOM.
+- **HTML5:** Estruturação dos elementos da página.
+- **CSS3:** Estilização visual e layout.
+- **VS Code:** Editor de código e ambiente de desenvolvimento.
 
 ---
 
 ### Acesse o Projeto 
-> [Clique para jogar](https://github.com/ArthurWender536/jogo-do-numero-secreto)
+> (https://github.com/ArthurWender536/jogo-do-numero-secreto)
